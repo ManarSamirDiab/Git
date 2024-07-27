@@ -1,2 +1,2 @@
 # Git
-For Manar Git course
+For Manar Git course .
